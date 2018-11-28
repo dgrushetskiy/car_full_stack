@@ -1,0 +1,3 @@
+[submodule "car-app-client"]
+	path = car-app-client
+	url = E:\\Git_hub\\car_full_stack\\car-app-client
